@@ -50,11 +50,10 @@ Cold: 0
 
 ## What I learned
 
-- [One thing that clicked]
-- [One thing that was hard]
-- [One Git thing, e.g. the difference between commit and push]
-
+- One thing that clicked was functions and conditionals, operators were easier to understand and made functions more effective. 
+- One thing that was difficult was learning Git and Github. Im still learning commands and the workflow. I still need to learn business/collaborative workflows aswell.
+- One Git thing I learned was git push sends commits to your branch and updates your copy of the code, whether its in your main/master branch or a sub-branch.
 ## What I'd improve next
 
-- [e.g. save the leads to a file so they aren't lost when the program closes; this is week 2's topic]
+- Next, I got to learn how to save the leads to a file so they aren't lost when the program closes; this is week 2's topic that I aleady have mapped out and will execute promptly.
 
